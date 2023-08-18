@@ -5,11 +5,9 @@
  *
  * Return: Always 0.
  */
-int main(void),
+int main(void)
 
-    ('int i')
 {
-	
 	print_numbers();
 	return (0);
 }
